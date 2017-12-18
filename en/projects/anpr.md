@@ -25,6 +25,9 @@ variation procedures and to standardise them at a national level, so that it is 
 obtain certificates without the need to go to
 an official office.
 
+**[Follow the latest updates on Twitter](https://twitter.com/ITdigitalteam)**
+
+
 ### The benefits for citizens and the public administration
 
 ANPR is an essential step in the digital agenda for enabling future innovations, since having a database at a national level will allow for the advancement of self-certification procedures by shortening and
@@ -51,7 +54,6 @@ aim of creating a clear roadmap for implementation, modernising the operative me
 
 {% include medium_project.html %}
 
-{% include twitter_timeline.html %}
 
 ### Forum
 ANPR is a project of national relevance. To foster a discussion and an exchange of viewpoints, as well as to encourage the participation of all players involved in the project (starting from the 8,000+ Italian municipalities involved in the operation!), we created a [forum](https://forum.italia.it/c/anpr)

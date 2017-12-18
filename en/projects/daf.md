@@ -39,13 +39,14 @@ No more private silos belonging to this or that administration, with public data
 {:.h4}
 [Find out about the technical aspects on Developers Italia](https://developers.italia.it/it/daf/)
 
+**[Follow the latest updates on Twitter](https://twitter.com/ITdigitalteam)**
+
 {% include medium_project.html %}
 
 ### Forum
 
 {% include forum.html %}
 
-{% include twitter_timeline.html %}
 
 ### Media
 

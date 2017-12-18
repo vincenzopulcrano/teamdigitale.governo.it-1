@@ -45,6 +45,8 @@ for the main programming languages ​​and frameworks, publicly documented API
 {:.h4}
 [Find out about the technical aspects on Developers Italia](https://developers.italia.it)
 
+**[Follow the latest updates on Twitter](https://twitter.com/ITdigitalteam)**
+
 ### The role of the Team
 
 The Digital Team immediately became a promoter and took charge of the creation of the
@@ -59,7 +61,6 @@ a journey with them to bring the development of projects within Developers Itali
 {% include medium_project.html %}
 
 
-{% include twitter_timeline.html %}
 
 ### Media
 For any contact request received from the media and journalists, the Digital Transformation Team's press and communication office is the point of reference.

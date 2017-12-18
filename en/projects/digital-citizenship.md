@@ -30,6 +30,8 @@ in the interactions with local and national services, as if it were a single gre
 
 The aim is to provide a simpler and more familiar mechanism for the Public Administration to communicate with citizens, to provide notification of acts, reminders of deadlines, and share information and documents through an interface built around the citizen.
 
+**[Follow the latest updates on Twitter](https://twitter.com/ITdigitalteam)**
+
 ### The role of the Team
 
 The Digital Team immediately undertook a process of communication concerning

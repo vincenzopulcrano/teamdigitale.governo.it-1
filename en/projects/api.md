@@ -30,7 +30,7 @@ Public Administration IT systems must be connected to each other and must speak 
 
 The old [SPCoop Application Cooperation](http://www.agid.gov.it/agenda-digitale/infrastrutture-architetture/sistema-pubblico-connettivita/cooperazione-applicativa) model, based on the [Porte di Dominio](http://www.agid.gov.it/sites/default/files/documentazione/spcoop-portadominio_v1.1_0.pdf), is no longer effective and [will be exceeded](http://lg-transizione-interoperabilita.readthedocs.io/) by a new open model, which will also have the objective of simplifying the convention procedures between the entities and the interaction with the Data Protection Authority.
 
-**[Follow the latest project updates on Twitter](https://twitter.com/search?f=tweets&vertical=default&q=api%20list%3AteamdigitaleIT%2Fteam-digitale)**
+**[Follow the latest updates on Twitter](https://twitter.com/ITdigitalteam)**
 
 ### The role of the Team
 

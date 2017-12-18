@@ -32,6 +32,8 @@ Citizens must be able to choose modern payment methods with minimal friction, wh
 {:.h4}
 [Find out about the technical aspects on Developers Italia](https://developers.italia.it/it/pagopa/)
 
+**[Follow the latest updates on Twitter](https://twitter.com/ITdigitalteam)**
+
 ### The data
 {% include dashboard.html %}
 
@@ -47,8 +49,6 @@ These changes will soon be visible, with the larger municipalities having alread
 
 {% include medium_project.html %}
 
-
-{% include twitter_timeline.html %}
 
 ### Forum
 PagoPA is a project of national importance. To encourage discussion and an exchange of viewpoints, and to favour the participation of all the plays involved in the project, we created a [forum](https://forum.italia.it/c/pagopa).

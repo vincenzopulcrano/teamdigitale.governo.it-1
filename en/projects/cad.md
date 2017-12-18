@@ -18,7 +18,7 @@ We have to start writing fewer laws and more software [less codes and more code]
 
 Detailed, rule-based regulations are to be translated into bit. Conventions for data exchange between administrations in API [Application Programming Interface] and administrative processes in which discretionary activity is either absent or modest are to be transformed into machine to machine processes, making them more efficient and democratic.
 
-**[Follow the latest project updates on Twitter](https://twitter.com/search?f=tweets&vertical=default&q=cad%20list%3AteamdigitaleIT%2Fteam-digitale&src=typd)**
+**[Follow the latest updates on Twitter](https://twitter.com/ITdigitalteam)**
 
 {% include medium_project.html %}
 

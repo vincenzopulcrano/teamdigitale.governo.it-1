@@ -19,6 +19,8 @@ dashboard_url: https://dashboard.teamdigitale.governo.it/public/dashboard/5b0da6
 
 SPID, the Public Digital Identity System, is the solution that allows the access to all the Public Administration's online services with a single Digital Identity that can be used on computers, tablets and smartphones. Today, our digital credentials are different for each service that we access. A drastic reduction in their number would lead to the simplification of the citizen&#39;s life and to greater security.
 
+**[Follow the latest updates on Twitter](https://twitter.com/ITdigitalteam)**
+
 ### Benefits for citizens and the public administration
 
 SPID allows the Public Administration to remove locally-managed authentication services, thus saving on such costs both in terms of maintenance and work necessary for issuing credentials. Moreover, the quality of the identification provided by the SPID is normally higher and also provides guarantees to the public administration itself during the provision of services.
@@ -40,7 +42,7 @@ In the blog, you will find our vision of the project and the role it will play i
 
 {% include medium_project.html %}
 
-{% include twitter_timeline.html %}
+
 
 
 ### Forum

@@ -20,10 +20,11 @@ The three-year plan is a document with a strategic direction laid out by the Sta
 
 [Official website](https://pianotriennale-ict.italia.it/)
 
+**[Follow the latest updates on Twitter](https://twitter.com/ITdigitalteam)**
+
 
 {% include medium_project.html %}
 
-{% include twitter_timeline.html %}
 
 ### Forum
 

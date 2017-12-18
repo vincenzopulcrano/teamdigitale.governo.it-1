@@ -69,6 +69,8 @@ timeline:
 ### In short
 We intend to create guidelines, examples and development kits that can help all administrations in offering digital services that are easy for citizens to use. We want to introduce a development logic and continuous improvement, given that digital products and interfaces must be a living entity that evolves together with the users&#39; needs and digital innovations. The first step was the creation of [Designers Italia](https://designers.italia.it).
 
+**[Follow the latest updates on Twitter](https://twitter.com/ITdigitalteam)**
+
 ### The role of the Team
 The objective of [Designers Italia](https://designers.italia.it) is to disseminate a culture of design in digital services that makes the citizen the focal point, in order to save time and money for the public administration and to raise the quality of the services.
 The digital transformation team has strengthened the existing project relative to the guidelines of the public websites by creating a platform - Designers Italia - that constitutes a meeting point between the world of design and the public administration. All documentation relating to the design guidelines should come from its alpha version and embrace all aspects of human-centred design: service design, user interface design, content design and user research.
@@ -82,7 +84,6 @@ Designers Italia not only produces guides and kits for all public administration
 A space for discussions about the design of public services.
 {% include forum.html %}
 
-{% include twitter_timeline.html %}
 
 ### Media
 For any contact request received from the media and journalists, the Digital Transformation Team's press and communication office is the point of reference.
