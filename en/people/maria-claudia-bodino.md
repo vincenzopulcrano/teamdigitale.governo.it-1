@@ -3,7 +3,7 @@ title: Maria Claudia Bodino
 lang: en
 permalink: /en/people/maria-claudia-bodino.htm
 layout: people
-role: Metrics, Analytics & Data Visualization Expert
+role: Metrics, Analytics & Data Visualization 
 is_new: true
 twitter_user: MMariaClaudiAA
 linkedin_url: https://www.linkedin.com/in/mariaclaudiabodino/
